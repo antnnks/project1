@@ -1,6 +1,6 @@
-'use strict'
+'use strict';
 
 console.log('start');
 setTimeout(() => {
-    console.log('stop');
+  console.log('stop');
 }, 2000);
